@@ -18,4 +18,4 @@ The goal of this repository is to give a compression (for computational efficien
 
 ###Important Circuits:
 
-1. Proton pumps should be considered top priority as a first uantum circuit model. They are ubiquitous in many biological processes. 
+1. Proton pumps should be considered top priority as a first quantum circuit model. They are ubiquitous in many biological processes. 

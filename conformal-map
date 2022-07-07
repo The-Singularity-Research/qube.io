@@ -1,0 +1,14 @@
+For any finite graph of mixed dimensional hybrid qudits representing a molecule, we can 
+spatially separate some of the qudits, partitioning the grapph into subgraphs. This would 
+represent a chemical reaction with precursor the original graph, and product molecules given by 
+the subgraphs that have been spacially separates. Since each graph in such a chemical
+equation can be thought of as a hybrid qudit surface code, and therefore as a dessin d'enfant, 
+we can represent this spatial separation as a conformal mapping of some Riemann surface(s) 
+to some new set of Riemann surface(s). Using AdS-CFT this can be represented as a set of 
+qudit gates operating on the qudits. We would use controlled-U gates for somne unitaries
+U in SU(d) specific to and determined by the chemical reaction to modify the entanglement 
+between qudits (atoms and molecule). 
+
+Since every chemical reaction can be modelled in this way, this is an optmial place to begin
+for this project. Moreover, the general idea can be transferred to nuclear physics and thus 
+would be useful for the quark.io project as well. 
